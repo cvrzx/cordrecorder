@@ -1,0 +1,14 @@
+{
+  "name": "CordRecorder v1",
+  "description": "In-app screen recording, local library and export. Requires CordRecorder dylib. Call audio experimental.",
+  "authors": [
+    {
+      "name": "CordRecorder"
+    }
+  ],
+  "main": "index.js",
+  "hash": "d031234a822d9db7b8c4c7bfed43909e196d587d509329bd8a76d4a99e1d43ad",
+  "vendetta": {
+    "icon": "VideoIcon"
+  }
+}
